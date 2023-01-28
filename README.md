@@ -10,4 +10,6 @@
 
    <img align="center" alt="Linux" src= "https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=" />
 
+   <img align="center" alt="AWS Cloud" src= "https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=" />
+
 <div>
