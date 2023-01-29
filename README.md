@@ -19,21 +19,41 @@ As a student, I constantly dedicate myself to the search for knowledge and updat
 <a href="https://www.github.com/devpontes" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
-### Skills
+### My Specialties:
 
-<img align="center" alt="Python" src= "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+### Languagues:
 
-   <img align="center" alt="Mulesoft" src= "https://img.shields.io/static/v1?style=for-the-badge&message=Mulesoft&color=00A0DF&logo=Mulesoft&logoColor=FFFFFF&label=" />
-
-   <img align="center" alt="Linux" src= "https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=" />
-
-   <img align="center" alt="AWS Cloud" src= "https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=" />
+<p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="80" height="35" /></a> <a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" width="60" height="35" /></a> <a href="https://www.linkedin.com/in/ot%C3%A1viopontes/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" width="100" height="35" /></a></p>
 
 
-<img align="center" alt="Git" src= "https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label" />
+
+### Database:
+
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=" width="80" height="35"/></a></p>
 
 
-### Badges
+### API's:
+
+<p align="left"> <a href="https://www.mulesoft.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Mulesoft&color=00A0DF&logo=Mulesoft&logoColor=FFFFFF&label=" width="80" height="35"/></a></p>
+
+
+### Version Control
+
+<p align="left"> <a href="https://github.com/devpontes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="80" height="35" /></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" width="60" height="35"  /></a></p>
+
+
+### S.O's: 
+
+
+
+<p align="left"> <a href="https://www.debian.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Debian&color=A81D33&logo=Debian&logoColor=FFFFFF&label=" width="80" height="35" /></a> <a href="https://github.com/devpontes" target="_blank" rel="noreferrer"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=E95420&logo=Ubuntu&logoColor=FFFFFF&label=" width="80" height="35"  /></a></p>
+
+### Socials
+
+<p align="left"> <a href="https://discord.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://github.com/devpontes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ot%C3%A1viopontes/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32"  /></a></p>
+
+
+
 
 <b>My GitHub Stats</b>
 
@@ -42,6 +62,8 @@ src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-th
 <a href="http://www.github.com/devpontes"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devpontes&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/devpontes"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=devpontes&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" min-width="400px" max-width="400px" width="500px" align="right" alt="logo"> 
 
