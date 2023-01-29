@@ -65,7 +65,7 @@ src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-th
 
 
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" min-width="400px" max-width="400px" width="500px" align="center" alt="logo"> 
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" min-width="700px" max-width="700px" width="1200px" align="center" alt="logo"> 
 
 
 
